@@ -21,3 +21,23 @@ code {
   align-items: center;
   height: 5rem;
 }
+section {
+  color: #ccc;
+  font-family: 'Roboto', sans-serif;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+  gap: 1rem;
+  margin: 3rem;
+}
+img {
+  width: 20em;
+}
+
+.imgs{
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  align-items: center;
+  border: 1px solid black;
+}
+
