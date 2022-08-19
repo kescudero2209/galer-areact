@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/galeriareact/static/css/main.ae1f1684.css",
+    "main.js": "/galeriareact/static/js/main.1a6de8ee.js",
+    "static/js/787.ff4cbe1e.chunk.js": "/galeriareact/static/js/787.ff4cbe1e.chunk.js",
+    "static/media/bengali.webp": "/galeriareact/static/media/bengali.3542eecc89fa32c72c09.webp",
+    "static/media/abisinio.webp": "/galeriareact/static/media/abisinio.4aa60224e542bcc9cdf3.webp",
+    "static/media/asiatico.webp": "/galeriareact/static/media/asiatico.af24aef93977a916ea47.webp",
+    "static/media/siberia.webp": "/galeriareact/static/media/siberia.949a087df12cd2d1149a.webp",
+    "static/media/noruego.webp": "/galeriareact/static/media/noruego.8a486868d814ce893369.webp",
+    "static/media/bombay.webp": "/galeriareact/static/media/bombay.6bce9c1b4110d88663ae.webp",
+    "static/media/balines.webp": "/galeriareact/static/media/balines.d99c0651977309eb5b40.webp",
+    "static/media/bobtail.webp": "/galeriareact/static/media/bobtail.9180c3f47a230a5c1d03.webp",
+    "static/media/logo.svg": "/galeriareact/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/galeriareact/index.html",
+    "main.ae1f1684.css.map": "/galeriareact/static/css/main.ae1f1684.css.map",
+    "main.1a6de8ee.js.map": "/galeriareact/static/js/main.1a6de8ee.js.map",
+    "787.ff4cbe1e.chunk.js.map": "/galeriareact/static/js/787.ff4cbe1e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ae1f1684.css",
+    "static/js/main.1a6de8ee.js"
+  ]
+}
