@@ -3,10 +3,12 @@ import "bootstrap/dist/css/bootstrap.min.css";
 import Header from "./components/Header.jsx";
 import Card from "./components/Card.jsx";
 import image from './assets/images';
+import Footer from "./components/Footer.jsx";
 
 function App() {
   return (
     <>
+    <body class="text-bg-light">
       <Header title="Galería de gatos con React" />
       <section>
       <Card src={image.img1} alt="Gato Absinio" title="Gato Absinio" description="Raza de gato de constitución media" />
@@ -18,6 +20,8 @@ function App() {
       <Card src={image.img7} alt="Gato Bosque de Noruega" title="Gato Bosque de Noruega" description="Raza de gato más grande y robusta" />
       <Card src={image.img8} alt="Gato Bosque de Siberia" title="Gato Bosque de Siberia" description="Raza de gato más grande y robusta" />
   </section>
+  <Footer parrafo="Galería de imágenes sobre gatos"/>
+  </body>
   </>
   );
 }
