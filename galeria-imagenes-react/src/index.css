@@ -11,3 +11,13 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+.header {
+  color:#ccc;
+  text-align: center;
+  font-family: 'Shadows Into Light', cursive;
+  background-color: purple;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 5rem;
+}
